@@ -36,10 +36,6 @@
 
 Create a global.css style:
 
-  ```css
-
-  ```
-
 Add import './global.css' into App.tsx;
 
 
@@ -65,15 +61,17 @@ Update index.html with the font commands, title and icon (icon by figma)
   ...
   ```
 
-  ## Other customs
+## 5. 
 
-  Edit vite.config.json to custom app port:
+## Other customs
 
-    ```js
-    ...
-      plugins: [react()],
-      server: {
-        port: 3002
-      }
-    ...
-    ```
+Edit vite.config.json to custom app port:
+
+  ```js
+  ...
+    plugins: [react()],
+    server: {
+      port: 3002
+    }
+  ...
+  ```
