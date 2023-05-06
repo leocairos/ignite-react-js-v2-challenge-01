@@ -3,7 +3,7 @@
 Ignite React JS v2 - Challenge 01 - Practicing ReactJS concepts
 
 <h1 align="center">
-    <img alt="Ignite ReactJS" title="Ignite ReactJS" src="./.github/ignite.png" />
+    <img height="160" alt="Ignite ReactJS" title="Ignite ReactJS" src="./.github/ignite.png" />
 </h1>
 
 <p align="center">
@@ -51,7 +51,9 @@ For this application, a layout was provided to be followed and implemented all t
 
 [Challenge 01 - Figma Layout](https://www.figma.com/file/3EwmfSOOGcBqD9rqYLCcmM/Challenge-01---ToDo-List?type=design&node-id=0-1&t=o3wNdyFyjPOj79bD-0) 
 
-[Challenge 01 - Figma Layout](./.gitub/challenge01_figma_layout_capa.png "Challenge 01 - Figma Layout Capa")
+<h1 align="center">
+    <img height="320" alt="Figma Layout Capa" title="Challenge 01 - Figma Layout Capa" src="./.github/challenge01_figma_layout_capa.png" />
+</h1>
 
 
 ## 📄 License
