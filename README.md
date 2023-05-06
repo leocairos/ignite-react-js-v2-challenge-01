@@ -51,7 +51,7 @@ For this application, a layout was provided to be followed and implemented all t
 
 [Challenge 01 - Figma Layout](https://www.figma.com/file/3EwmfSOOGcBqD9rqYLCcmM/Challenge-01---ToDo-List?type=design&node-id=0-1&t=o3wNdyFyjPOj79bD-0) 
 
-![Challenge 01 - Figma Layout](./_gitub/challenge01_figma_layout_capa.png "Challenge 01 - Figma Layout Capa")
+[Challenge 01 - Figma Layout](./.gitub/challenge01_figma_layout_capa.png "Challenge 01 - Figma Layout Capa")
 
 
 ## 📄 License
