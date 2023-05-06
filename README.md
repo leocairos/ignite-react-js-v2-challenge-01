@@ -55,6 +55,9 @@ For this application, a layout was provided to be followed and implemented all t
     <img height="320" alt="Figma Layout Capa" title="Challenge 01 - Figma Layout Capa" src="./.github/challenge01_figma_layout_capa.png" />
 </h1>
 
+## How to resolved 
+
+* [Resolve instructions](./.github/HowToResolved.md "Resolve instructions") 🚀
 
 ## 📄 License
 
